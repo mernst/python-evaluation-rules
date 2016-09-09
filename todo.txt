@@ -1,0 +1,19 @@
+TODO
+====
+
+Here are several TODO items for the Python Evaluation Rules document, eval_rules.tex :
+
+* Add sections about Python classes and methods.
+* revise last 3 sections; they are too long, with poor examples and writing.
+
+* Update sections, such as section 6.2, to give a frame diagram instead of
+  "# lst is [1, 2, 3]".
+
+Variable names:
+* Go through all examples and use more creative values than ['a', 'b', 'c'] and
+  the like.
+* change bindings-2 to
+    pi 3.14
+    greeting "hello world"
+    answer 42
+    fermat True
