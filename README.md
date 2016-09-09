@@ -1,4 +1,4 @@
-The Python Evaluation Rules document is available here: [python-evaluation-rules.pdf](PDF).
+The Python Evaluation Rules document is available here: [PDF](python-evaluation-rules.pdf).
 
 <!-- This following text is verbatim from the introduction to the document. -->
 
@@ -19,4 +19,4 @@ It does not cover every possible Python expression, but does cover the
 most frequently-used ones.
 
 This document was originally written in fall 2011 for use in 
-[http://tinyurl.com/dataprogramming](UW CSE 160).
+[UW CSE 160](http://tinyurl.com/dataprogramming).
