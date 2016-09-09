@@ -1,4 +1,4 @@
-The Python Evaluation Rules document is available here: [PDF](python-evaluation-rules.pdf).
+The Python Evaluation Rules document is available here: [PDF](https://rawgit.com/mernst/python-evaluation-rules/master/python-evaluation-rules.pdf).
 
 <!-- This following text is verbatim from the introduction to the document. -->
 
